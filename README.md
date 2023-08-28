@@ -20,11 +20,6 @@ Your credit score is calculated using the information found on your credit repor
 ## 🛠 Frameworks
 Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Imblearn, Xgboost, Lightgbm, Optuna
 
-## Visualization
-
-![](https://github.com/sudhanshu2198/Multi-Class-Credit-Score-Classification/blob/main/images/image2.png)
-![](https://github.com/sudhanshu2198/Multi-Class-Credit-Score-Classification/blob/main/images/image6.png)
-
 ## Results
 
 ![](https://github.com/sudhanshu2198/Multi-Class-Credit-Score-Classification/blob/main/images/dist4.png)
